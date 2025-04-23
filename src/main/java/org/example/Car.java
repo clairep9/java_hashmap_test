@@ -13,6 +13,7 @@ public class Car {
     }
 
     public String getModel() {
+
         return model;
     }
 
@@ -21,6 +22,7 @@ public class Car {
     }
 
     public double getPrice() {
+
         return price;
     }
 
